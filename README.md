@@ -8,6 +8,13 @@
     <img src="https://skillicons.dev/icons?i=py,flask,html,css,bootstrap,linux" /> <br>
     <img src="https://skillicons.dev/icons?i=ae,pr,visualstudio,vscode,pycharm,clion" /> <br>
 </div>
+
+<h2 align="right">📖Learning</h2>
+<br>
+<div align="right">
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,vim" /> <br>
+</div>
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xperski&show_icons=true&theme=dark&locale=en&layout=compact"/></p>
 <br>
