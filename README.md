@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&multiline=true&width=500&height=60&lines=%F0%9F%91%8BHi%2C+I'm+PerSki;CS+Student+%26+Lover" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&center=true&multiline=true&width=500&height=100&lines=%F0%9F%91%8BHi%2C+I'm+PerSki;%F0%9F%92%BBCS+Student+%26+Lover" />
 </h1>
 
 <h2 align="left">💻Languages and Tools</h2>
