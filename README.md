@@ -5,8 +5,8 @@
 <h2 align="center">💻Languages and Tools</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,flask,html,css,bootstrap,linux" />
-    <img src="https://skillicons.dev/icons?i=ae,pr,visualstudio,vscode,pycharm,clion" /><br>
+    <img src="https://skillicons.dev/icons?i=py,flask,html,css,bootstrap,linux" /> <br>
+    <img src="https://skillicons.dev/icons?i=ae,pr,visualstudio,vscode,pycharm,clion" /> <br>
 </div>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xperski&show_icons=true&theme=dark&locale=en&layout=compact"/></p>
