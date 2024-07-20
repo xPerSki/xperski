@@ -1,7 +1,6 @@
-<h1 align="center">👋Hi, I'm PerSki</h1>
-<h3 align="center">CS student & lover</h3>
-
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?pause=0&center=true&multiline=true&width=500&height=100&lines=%F0%9F%91%8BHi%2C+I'm+PerSki;CS+Student+%26+Lover" />
+</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -14,5 +13,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xperski&show_icons=true&theme=dracula&locale=en&layout=compact"/></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperski&theme=dark"" /></p>
