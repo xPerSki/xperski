@@ -4,7 +4,7 @@
 
 <h2 align="left">💻Languages and Tools</h2>
 <br>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=py,flask,html,css,bootstrap,linux" /> <br>
     <img src="https://skillicons.dev/icons?i=ae,pr,visualstudio,vscode,pycharm,clion" /> <br>
 </div>
