@@ -21,3 +21,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=xperski&show_icons=true&theme=midnight-purple" />
 </div>
 
+<h2 align="right">✨ My little accomplishments</h2>
+<div align="right">
+    <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
+    <br>
+    <a href="https://github.com/xPerSki/ManyManyRooms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=ManyManyRooms&theme=midnight-purple" /></a>
+    <br>
+    <a href="https://github.com/xPerSki/LaunchPad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=LaunchPad&theme=midnight-purple" /></a>
+</div>
