@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&multiline=true&width=500&height=60&lines=%F0%9F%91%8BHi%2C+I'm+PerSki;CS+Student+%26+Lover" />
 </h1>
 
-<h2 align="center">💻Languages and Tools</h2>
+<h2 align="left">💻Languages and Tools</h2>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,flask,html,css,bootstrap,linux" /> <br>
