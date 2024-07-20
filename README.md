@@ -18,9 +18,7 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=xperski&show_icons=true&theme=midnight-purple&hide=issues,contribs&include_all_commits=true" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=4&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=5" />
 </div>
 
 <h2 align="right">✨ My little accomplishments</h2>
