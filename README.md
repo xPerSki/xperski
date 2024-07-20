@@ -18,6 +18,6 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+    <img src="https://github-readme-stats.vercel.app/api?username=xperski&show_icons=true&theme=synthwave" />
 </div>
 
