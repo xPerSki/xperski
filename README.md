@@ -18,7 +18,7 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=5" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=10" />
 </div>
 
 <h2 align="right">✨ My little accomplishments</h2>
@@ -28,4 +28,6 @@
     <a href="https://github.com/xPerSki/ManyManyRooms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=ManyManyRooms&theme=midnight-purple" /></a>
     <br>
     <a href="https://github.com/xPerSki/LaunchPad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=LaunchPad&theme=midnight-purple" /></a>
+    <br>
+    <a href="https://github.com/xPerSki/Custom-Tic-Tac-Toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=Custom-Tic-Tac-Toe&theme=midnight-purple" /></a>
 </div>
