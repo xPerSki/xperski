@@ -5,8 +5,9 @@
 <h2 align="left">💻 Languages and Tools</h2>
 <br>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=py,flask,html,css,bootstrap,linux" /> <br>
-    <img src="https://skillicons.dev/icons?i=ae,pr,visualstudio,vscode,pycharm,clion" /> <br>
+    <img src="https://skillicons.dev/icons?i=py,flask,postman,html,css,bootstrap" /> <br>
+    <img src="https://skillicons.dev/icons?i=ae,pr,pycharm,clion,vscode,visualstudio" /> <br>
+    <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,debian,windows,linux" /> <br>
 </div>
 
 <h2 align="right">📖 Learning</h2>
