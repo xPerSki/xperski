@@ -34,6 +34,6 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=xperski&color=blueviolet&style=for-the-badge">
     <br>
-    <i>*Since 25.03.2025</i>
+    <i>*Since 25th March 2025</i>
 
 </div>
