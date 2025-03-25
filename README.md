@@ -31,4 +31,9 @@
     <a href="https://github.com/xPerSki/LaunchPad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=LaunchPad&theme=midnight-purple" /></a>
     <br>
     <a href="https://github.com/xPerSki/Custom-Tic-Tac-Toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=Custom-Tic-Tac-Toe&theme=midnight-purple" /></a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=xperski&color=blueviolet&style=for-the-badge">
+    <br>
+    <i>*Since 25.03.2025</i>
+
 </div>
