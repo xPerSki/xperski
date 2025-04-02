@@ -28,9 +28,9 @@
     <br>
     <a href="https://github.com/xPerSki/ManyManyRooms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=ManyManyRooms&theme=midnight-purple" /></a>
     <br>
-    <a href="https://github.com/xPerSki/LaunchPad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=LaunchPad&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/AnonChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=AnonChat&theme=midnight-purple" /></a>
     <br>
-    <a href="https://github.com/xPerSki/Custom-Tic-Tac-Toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=Custom-Tic-Tac-Toe&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/LaunchPad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=LaunchPad&theme=midnight-purple" /></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=xperski&color=blueviolet&style=for-the-badge">
     <br>
