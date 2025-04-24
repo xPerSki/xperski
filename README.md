@@ -13,7 +13,7 @@
 <h2 align="right">📖 Learning</h2>
 <br>
 <div align="right">
-    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,bash,vim,django" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,cpp,bash,vim,django" /> <br>
 </div>
 
 <h2 align="left">📊 Stats</h2>
@@ -26,7 +26,7 @@
 <div align="right">
     <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
     <br>
-    <a href="https://github.com/xPerSki/ManyManyRooms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=ManyManyRooms&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&theme=midnight-purple" /></a>
     <br>
     <a href="https://github.com/xPerSki/mini-MAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=mini-MAL&theme=midnight-purple" /></a>
     <br>
