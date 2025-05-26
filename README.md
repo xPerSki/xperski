@@ -26,11 +26,11 @@
 <div align="right">
     <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
     <br>
+    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&theme=midnight-purple" /></a>
+    <br>
     <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&theme=midnight-purple" /></a>
     <br>
     <a href="https://github.com/xPerSki/mini-MAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=mini-MAL&theme=midnight-purple" /></a>
-    <br>
-    <a href="https://github.com/xPerSki/AnonChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=AnonChat&theme=midnight-purple" /></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=xperski&color=blueviolet&style=for-the-badge">
     <br>
