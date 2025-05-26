@@ -26,7 +26,7 @@
 <div align="right">
     <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
     <br>
-    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&theme=midnight-purple&z" /></a>
     <br>
     <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&theme=midnight-purple" /></a>
     <br>
