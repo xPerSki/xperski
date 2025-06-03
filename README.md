@@ -5,15 +5,15 @@
 <h2 align="left">💻 Languages and Tools</h2>
 <br>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=py,flask,postman,html,css,bootstrap" /> <br>
-    <img src="https://skillicons.dev/icons?i=ae,pr,pycharm,clion,vscode,visualstudio" /> <br>
-    <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,debian,windows,linux" /> <br>
+    <img src="https://skillicons.dev/icons?i=py,flask,postman,html,git,css,bootstrap" /> <br>
+    <img src="https://skillicons.dev/icons?i=ae,pr,pycharm,clion,webstorm,vscode,visualstudio"/> <br>
+    <img src="https://skillicons.dev/icons?i=linux,bash,kali,githubactions,redis,windows,unreal"/> <br>
 </div>
 
 <h2 align="right">📖 Learning</h2>
 <br>
 <div align="right">
-    <img src="https://skillicons.dev/icons?i=docker,cpp,bash,vim,django" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,cpp,vim,django" /> <br>
 </div>
 
 <h2 align="left">📊 Stats</h2>
