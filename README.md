@@ -19,7 +19,7 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=4&hide=html,css&z" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=4&hide=html,css&zz" />
 </div>
 
 <h2 align="right">✨ My little accomplishments</h2>
