@@ -13,7 +13,7 @@
 <h2 align="right">📖 Learning</h2>
 <br>
 <div align="right">
-    <img src="https://skillicons.dev/icons?i=rust,docker,cpp,vim,django" /> <br>
+    <img src="https://skillicons.dev/icons?i=java,rust,docker,cpp,vim,django" /> <br>
 </div>
 
 <h2 align="left">📊 Stats</h2>
