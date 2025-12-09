@@ -19,18 +19,18 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=4&hide=html,css&zz" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=6&hide=html,css&z" />
 </div>
 
 <h2 align="right">✨ My little accomplishments</h2>
 <div align="right">
-    <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
     <br>
-    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&theme=midnight-purple&z" /></a>
+    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&theme=midnight-purple&z" /></a>
     <br>
-    <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&theme=midnight-purple" /></a>
     <br>
-    <a href="https://github.com/xPerSki/lolalytics-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=lolalytics-api&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/lolalytics-api"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=lolalytics-api&theme=midnight-purple" /></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=xperski&color=blueviolet&style=for-the-badge">
     <br>
