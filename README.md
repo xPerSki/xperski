@@ -1,20 +1,42 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&color=8500F7&center=true&multiline=true&width=500&height=100&lines=%F0%9F%91%8BHi%2C+I'm+PerSki;%F0%9F%92%BBCS+Student+%26+Lover" />
+  <img src="header.svg" alt="Header" width="100%" />
 </p>
 
 <h2 align="left">💻 Languages and Tools</h2>
 <br>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=py,flask,postman,html,git,css,bootstrap" /> <br>
-    <img src="https://skillicons.dev/icons?i=ae,pr,pycharm,clion,webstorm,vscode,visualstudio"/> <br>
-    <img src="https://skillicons.dev/icons?i=linux,bash,kali,githubactions,redis,windows,unreal"/> <br>
+    <p align="left">
+        <img src="https://img.shields.io/badge/Python-94e2d5?style=for-the-badge&logo=python&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/FastAPI-89dceb?style=for-the-badge&logo=fastapi&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/Flask-b4befe?style=for-the-badge&logo=flask&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/Pytest-f5c2e7?style=for-the-badge&logo=pytest&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/Bash-f2cdcd?style=for-the-badge&logo=gnubash&logoColor=1e1e2e" />
+    </p>
+    <p align="left">
+      <img src="https://img.shields.io/badge/Linux-94e2d5?style=for-the-badge&logo=linux&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Docker-89dceb?style=for-the-badge&logo=docker&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Git-b4befe?style=for-the-badge&logo=git&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-cba6f7?style=for-the-badge&logo=githubactions&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/SQLite-f5c2e7?style=for-the-badge&logo=sqlite&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Redis-f2cdcd?style=for-the-badge&logo=redis&logoColor=1e1e2e" />
+    </p>
+    <p align="left">
+      <img src="https://img.shields.io/badge/Postman-94e2d5?style=for-the-badge&logo=postman&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Burp_Suite-89dceb?style=for-the-badge&logo=burpsuite&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/After_Effects-b4befe?style=for-the-badge&logo=adobeaftereffects&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Premiere_Pro-f5c2e7?style=for-the-badge&logo=adobepremierepro&logoColor=1e1e2e" />
+      <img src="https://img.shields.io/badge/Unreal_Engine-f2cdcd?style=for-the-badge&logo=unrealengine&logoColor=1e1e2e" />
+    </p>
 </div>
 
 <h2 align="right">📖 Learning</h2>
+    <p align="right">
+        <img src="https://img.shields.io/badge/Rust-f2cdcd?style=for-the-badge&logo=rust&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/Cryptography-cba6f7?style=for-the-badge&logo=letsencrypt&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/TryHackMe-89dceb?style=for-the-badge&logo=tryhackme&logoColor=1e1e2e" />
+        <img src="https://img.shields.io/badge/HackTheBox-a6e3a1?style=for-the-badge&logo=hackthebox&logoColor=1e1e2e" />
+    </p>
 <br>
-<div align="right">
-    <img src="https://skillicons.dev/icons?i=java,rust,docker,cpp,vim,django" /> <br>
-</div>
 
 <h2 align="left">📊 Stats</h2>
 <br>
