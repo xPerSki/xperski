@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Header.svg?a=b" alt="Header" width="100%" />
+  <img src="Header.svg" alt="Header" width="100%" />
 </p>
 
 <h2 align="left">💻 Languages and Tools</h2>
