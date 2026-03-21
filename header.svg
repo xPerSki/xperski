@@ -1,0 +1,51 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glassBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55" />
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="transparent" />
+
+  <g filter="url(#glassBlur)">
+    <circle cx="300" cy="200" r="120" fill="#94e2d5" opacity="0.6">
+      <animate attributeName="cx" values="300;700;300" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+      <animate attributeName="cy" values="200;300;200" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+    </circle>
+
+    <circle cx="700" cy="300" r="140" fill="#b4befe" opacity="0.5">
+      <animate attributeName="cx" values="700;300;700" dur="10s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+      <animate attributeName="cy" values="300;200;300" dur="10s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+    </circle>
+
+    <circle cx="500" cy="250" r="100" fill="#f5c2e7" opacity="0.5">
+      <animate attributeName="cx" values="400;600;400" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+      <animate attributeName="r" values="120;180;120" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+    </circle>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-weight="bold">
+    
+    <text x="500" y="230" font-size="95" text-anchor="middle">
+      <animate attributeName="fill" 
+               values="#cdd6f4; #6c7086; #cdd6f4; #cdd6f4; #cdd6f4" 
+               dur="10s" 
+               repeatCount="indefinite" 
+               calcMode="spline" 
+               keyTimes="0; 0.3; 0.6; 0.601; 1" 
+               keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0 0 1 1; 0 0 1 1" />
+      Hi, I'm PerSki
+    </text>
+    
+    <text x="500" y="285" font-size="24" text-anchor="middle" font-weight="normal">
+      <animate attributeName="fill" 
+               values="#bac2de; #bac2de; #bac2de; #585b70; #bac2de" 
+               dur="10s" 
+               repeatCount="indefinite" 
+               calcMode="spline" 
+               keyTimes="0; 0.5; 0.6; 0.8; 1" 
+               keySplines="0 0 1 1; 0 0 1 1; 0.42 0 0.58 1; 0.42 0 0.58 1" />
+      Computer Science Student | CyberSec Enthusiast
+    </text>
+  </g>
+</svg>
