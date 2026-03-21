@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Header.svg" alt="Header" width="100%" />
+  <img src="Header.svg?x=p" width="100%" />
 </p>
 
 <h2 align="left">💻 Languages and Tools</h2>
@@ -41,21 +41,20 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&theme=midnight-purple&langs_count=6&hide=html,css,yara&zz" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&langs_count=4&hide=html,css,yara&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&hide_border=true"/>
 </div>
 
 <h2 align="right">✨ My little accomplishments</h2>
 <div align="right">
-    <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/N5-Quizzler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=N5-Quizzler&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&icon_color=b4befe&hide_border=true" /></a>
     <br>
-    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&theme=midnight-purple&z" /></a>
+    <a href="https://github.com/xPerSki/card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=card&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&hide_border=true" /></a>
     <br>
-    <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/offensive-speech-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=offensive-speech-api&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4&icon_color=f5c2e7&hide_border=true" /></a>
     <br>
-    <a href="https://github.com/xPerSki/lolalytics-api"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=xperski&show_owner=true&repo=lolalytics-api&theme=midnight-purple" /></a>
+    <a href="https://github.com/xPerSki/lolalytics-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xperski&show_owner=true&repo=lolalytics-api&bg_color=1e1e2e&title_color=f2cdcd&text_color=cdd6f4&icon_color=f2cdcd&hide_border=true" /></a>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=xperski&color=blueviolet&style=for-the-badge">
-    <br>
-
 </div>
- 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=xperski&color=1e1e2e&style=for-the-badge&label=views">
+</div>
