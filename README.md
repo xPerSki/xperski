@@ -41,7 +41,7 @@
 <h2 align="left">📊 Stats</h2>
 <br>
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&langs_count=4&hide=html,css,yara&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&hide_border=true"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xperski&size_weight=1&count_weight=0&langs_count=7&hide=html,css,yara&bg_color=1e1e2e&title_color=b4befe&text_color=cdd6f4&hide_border=true"/>
 </div>
 
 <h2 align="right">✨ My little accomplishments</h2>
